@@ -21,8 +21,8 @@ if(isset($_POST['sbm'])){
 ?>
 <div class="container-fluid">
     <div class="card">
-        <div class="card-header">
-            <h2>Thêm sản phẩm</h2>
+        <div class="card-header col d-flex justify-content-center">
+            <h2>Cập nhật sản phẩm</h2>
         </div>
         <div class="card-body">
             <form action="" method="post" enctype="multipart/form-data">

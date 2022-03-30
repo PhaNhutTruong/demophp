@@ -36,6 +36,8 @@
                 break;
 
         }
+    }else{
+        require_once 'product/list.php';
     }
     ?>
 </body>
